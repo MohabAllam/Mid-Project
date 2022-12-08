@@ -45,4 +45,4 @@
 ### 9) Impact of previous year rating on getting promoted ?
 ### 10) Percentage of promoted employees who achieved KPI'S Vs promoted employees who didn't achieve ?
 ### 11) How winning an award affects the chance of getting promoted ?
-#### 12) Which seniority level has the highest number of promoted employees ?
+### 12) Which seniority level has the highest number of promoted employees ?
