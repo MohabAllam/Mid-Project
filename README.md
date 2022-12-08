@@ -5,5 +5,10 @@
 # Features
 ### Features can be calssified into two main categories as follow:
 ## Employee Attributes
-* employee_id : ID of the employee.
-* emsda
+* employee_id: ID of the employee.
+* age: Age of the employee in years.
+* department: The department which the employee belongs.
+* region: The region where employee works.
+* education: Educational degree employee has.
+* length_of_service: total number of years for the employee in the company.
+* recruitment_channel: The way by which employee joined the company.
