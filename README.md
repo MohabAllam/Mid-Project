@@ -27,5 +27,8 @@
 # Dataset
 ### Link [HR Analysis case](https://github.com/MohabAllam/Mid-Project/blob/main/Hr%20Analysis.csv)
 
-# Data Preprocessing Procedures
-* 
+# Dataset problems being handled
+* ### Missing values
+* ### Outliers
+* ### Imbalanced
+* ### Categorical features to be handled
