@@ -20,3 +20,6 @@
 * **KPIs_met>80%**: Whether the employee achieved the KPIs or not.
 * **Awards_won?**: Whether the employee has won any awards or not.
 * **avg_training_score**: Average score the for all trainings of the employee.
+
+# Target Variable
+**is_promoted** : Whether the employee is promoted or not (1 – 0)
