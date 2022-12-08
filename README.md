@@ -35,3 +35,14 @@
 
 # Analysis Questions ?
 ### 1) Which department has the highest number of promoted employees ?
+### 2) Top 10 regions that have promoted employees ?
+### 3) Does educational degree increase the chance of getting a promotion ?
+### 4) Which recruitment channel provides highest number of promoted employees ?
+### 5) How number of trainings affects getting promoted ?
+### 6) How average training score affects getting promoted ?
+### 7) How age affects chance of getting promoted ?
+### 8) How Gender affects getting promoted ?
+### 9) Impact of previous year rating on getting promoted ?
+### 10) Percentage of promoted employees who achieved KPI'S Vs promoted employees who didn't achieve ?
+### 11) How winning an award affects the chance of getting promoted ?
+#### 12) Which seniority level has the highest number of promoted employees ?
