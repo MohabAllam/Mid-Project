@@ -6,7 +6,7 @@
 #### Features can be calssified into two main categories as follow:
 
 ## Employee Attributes
-* employee_id: ID of the employee.
+* **employee_id: ID of the employee.
 * age: Age of the employee in years.
 * department: The department which the employee belongs.
 * region: The region where employee works.
