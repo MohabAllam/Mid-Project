@@ -7,16 +7,16 @@
 
 ## Employee Attributes
 * **employee_id**: ID of the employee.
-* age: Age of the employee in years.
-* department: The department which the employee belongs.
-* region: The region where employee works.
-* education: Educational degree employee has.
-* length_of_service: total number of years for the employee in the company.
-* recruitment_channel: The way by which employee joined the company.
+* **age**: Age of the employee in years.
+* **department**: The department which the employee belongs.
+* **region**: The region where employee works.
+* **education**: Educational degree employee has.
+* **length_of_service**: total number of years for the employee in the company.
+* **recruitment_channel**: The way by which employee joined the company.
 
 ## Employee Performance
-* no_of_trainings: Number of trainings employee attended in the company.
-* previous_year_rating: A scale from (1 – 5) for the whole previous year rating.
-* KPIs_met>80%: Whether the employee achieved the KPIs or not.
-* Awards_won?: Whether the employee has won any awards or not.
-* avg_training_score: Average score the for all trainings of the employee.
+* **no_of_trainings**: Number of trainings employee attended in the company.
+* **previous_year_rating**: A scale from (1 – 5) for the whole previous year rating.
+* **KPIs_met>80%**: Whether the employee achieved the KPIs or not.
+* **Awards_won?**: Whether the employee has won any awards or not.
+* **avg_training_score**: Average score the for all trainings of the employee.
