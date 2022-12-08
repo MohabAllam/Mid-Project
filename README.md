@@ -21,9 +21,11 @@
 * **Awards_won?**: Whether the employee has won any awards or not.
 * **avg_training_score**: Average score the for all trainings of the employee.
 
-# Target Variable
+## Target Variable
 **is_promoted** : Whether the employee is promoted or not (1 – 0)
 
-## Dataset Link [HR Analysis case](https://github.com/MohabAllam/Mid-Project/blob/main/Hr%20Analysis.csv)
+# Dataset
+### Link [HR Analysis case](https://github.com/MohabAllam/Mid-Project/blob/main/Hr%20Analysis.csv)
 
 # Data Preprocessing Procedures
+* 
