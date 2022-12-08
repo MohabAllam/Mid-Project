@@ -25,10 +25,13 @@
 **is_promoted** : Whether the employee is promoted or not (1 – 0)
 
 # Dataset
-### Link [HR Analysis case](https://github.com/MohabAllam/Mid-Project/blob/main/Hr%20Analysis.csv)
+#### Link [HR Analysis case](https://github.com/MohabAllam/Mid-Project/blob/main/Hr%20Analysis.csv)
 
 # Dataset problems being handled
 * ### Missing values
 * ### Outliers
 * ### Imbalanced
 * ### Categorical features to be handled
+
+# Analysis Questions ?
+### 1) Which department has the highest number of promoted employees ?
